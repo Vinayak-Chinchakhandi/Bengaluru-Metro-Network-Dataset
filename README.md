@@ -95,3 +95,9 @@ You are free to use, modify, and distribute it without restrictions.
 This dataset was created to address the lack of structured metro datasets publicly available and to help developers and researchers build **real-world transportation solutions**.
 
 If you use this dataset, consider giving credit or sharing your work 🙌
+
+---
+
+## 🔍 Keywords
+
+Bangalore Metro, Bengaluru Metro, Namma Metro, metro dataset, transportation dataset, geospatial data, graph dataset
